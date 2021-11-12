@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @paula-s1
+- 👋 Hi, I’m Paula, I work on Sentinel One
 - 👀 I’m interested in cybersecurity, ransomware, malware, TI and offensive security
 - 🌱 I’m currently learning philosophy on Utopias!
 - 💞️ I’m looking to collaborate on open source projects and education.
